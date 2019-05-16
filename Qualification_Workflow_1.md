@@ -20,7 +20,7 @@ In a first step, the respective qualification scenario is saved in a special qua
 PK-Sim projects, observed data sets, and qualification scenario text modules are deposited in distinct repositories and are referenced by the qualification plan (Figure 2).
 
 **Figure 2: Qualification scenario repository landscape on GitHub**
-![OSP qualification workflow detail](D:/Qualification/sfrechen/Qualification-text-modules/images/OSP_Qualification_Workflow_2.png)
+![OSP qualification workflow detail](/images/OSP_Qualification_Workflow_2.png)
 
 In a second step the qualification runner [[2](#reference)] processes the qualification plan, i.e. all project parts are exported and prepared for the reporting engine [[3](#reference)]. The reporting engine provides a validated environment (currently implemented in MATLAB®, a transfer to R is in development) for model execution and finally generates the qualification report. This report contains the evaluation of the individual PBPK models with observed data (i.e. standard goodness of fit plots, visual predictive checks) and a comprehensive qualification of the specific use case assessing the predictive performance of the OSP suite by means of a predefined set of qualification measures and charts. 
 
