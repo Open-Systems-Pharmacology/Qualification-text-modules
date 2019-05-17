@@ -38,4 +38,4 @@ Figure 1 shows the prespecified and developed DDI modeling network of interactin
 
 ### Reference
 
-[1] [Hanke N, Frechen S, Moj D, Britz H, Eissing T, Wendl T, Lehr T. PBPK Models for CYP3A4 and P-gp DDI Prediction: A Modeling Network of Rifampicin, Itraconazole, Clarithromycin, Midazolam, Alfentanil, and Digoxin. CPT Pharmacometrics Syst Pharmacol. 2018 Oct; 7(10): 647–659.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6202474)
+[1] [Hanke N, Frechen S, Moj D, Britz H, Eissing T, Wendl T, Lehr T. PBPK Models for CYP3A4 and P-gp DDI Prediction: A Modeling Network of Rifampicin, Itraconazole, Clarithromycin, Midazolam, Alfentanil, and Digoxin. CPT Pharmacometrics Syst Pharmacol (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6202474)
