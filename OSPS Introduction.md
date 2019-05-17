@@ -15,7 +15,7 @@ Physiological databases included in the software incorporate the dependencies of
 
 ## References
 
-[1] [https://github.com/Open-Systems-Pharmacology](http://www.open-systems-pharmacology.org/)
+[1] [www.open-systems-pharmacology.org](http://www.open-systems-pharmacology.org/)
 
 [2] [Willmann S, Schmitt W, Keldenich J, Lippert J, Dressman JB. A physiological model for the estimation of the fraction dose absorbed in humans.J Med Chem. 2004 Jul 29;47(16):4022-31.](https://www.ncbi.nlm.nih.gov/pubmed/15267240)
 
