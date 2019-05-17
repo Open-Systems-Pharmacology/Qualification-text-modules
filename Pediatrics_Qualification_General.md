@@ -1,4 +1,4 @@
-# Introduction to Pediatric Ontogeny Qualification (PEQ)
+# Introduction to Pediatric Ontogeny Qualification
 
 ## Translation of Adult PBPK to Children
 
