@@ -1,3 +1,3 @@
 # Qualification-text-modules
 
-Within this repository, general text sections and templates can be uploaded, which can be applied for reporting OSPS and qualification purposes.
+This repository contains text modules that are shared by various qualification plans, that can be applied for reporting OSPS and qualification specific purposes.
