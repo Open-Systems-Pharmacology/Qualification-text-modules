@@ -1,4 +1,4 @@
-# Open Systems Pharmacology Suite (OSPS) Introduction
+## Open Systems Pharmacology Suite (OSPS) Introduction
 
 OSPS is a tool for PBPK modelling and simulation of drugs in laboratory animals and humans. PK-Sim and MoBi are part of the Open Systems Pharmacology Suite (OSPS) [[1](#reference)]. PK-Sim® is based on a generic PBPK-model with 18 organs and tissues. Represented organs/tissues include arterial and venous blood, adipose tissue (separable adipose, excluding yellow marrow), brain, lung, bone (including yellow marrow), gonads, heart, kidneys, large intestine, liver, muscle, portal vein, pancreas, skin, small intestine, spleen and stomach, as shown in Figure 1.
 
@@ -13,7 +13,7 @@ Physiological databases included in the software incorporate the dependencies of
 ![generic PBPK model](images/PK-Sim_PBPK_generic_model_scheme.png)
 
 
-## References
+### References
 
 [1] [www.open-systems-pharmacology.org](http://www.open-systems-pharmacology.org/)
 
