@@ -10,7 +10,7 @@ Physiological databases included in the software incorporate the dependencies of
 
 **Figure** **1: Structure of the Whole Body PBPK Model integrated in PK-Sim®**
 
-![generic PBPK model](/images/PK-Sim_PBPK_generic_model_scheme.png)
+![generic PBPK model](images/PK-Sim_PBPK_generic_model_scheme.png)
 
 
 ## Reference
