@@ -21,7 +21,7 @@ A detailed representation of the mathematical implementation of enzyme induction
  
 
 
-#### Reference
+### References
 
 [1] [Reversible inhibition](https://docs.open-systems-pharmacology.org/working-with-pk-sim/pk-sim-documentation/pk-sim-compounds-defining-inhibition-induction-processes#competitive-inhibition-simple-setting-with-one-inhibitor)
 
