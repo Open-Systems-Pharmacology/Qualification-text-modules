@@ -26,7 +26,7 @@ In a second step the qualification runner [[2](#reference)] processes the qualif
 
 The automated execution of the described workflow can be triggered to assess re-qualification in case new data, changes in model structure or parameterization, or new OSP suite releases arise.
 
-### Reference
+### References
 
 [1] [www.open-systems-pharmacology.org](http://www.open-systems-pharmacology.org)
 
