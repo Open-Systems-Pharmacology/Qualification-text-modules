@@ -32,5 +32,5 @@ The automated execution of the described workflow can be triggered to assess re-
 
 [2] [QualificationRunner](https://github.com/Open-Systems-Pharmacology/QualificationRunner)
 
-[3] [Reporting-Egine](https://github.com/Open-Systems-Pharmacology/Reporting-Engine)
+[3] [Reporting-Engine](https://github.com/Open-Systems-Pharmacology/Reporting-Engine)
 

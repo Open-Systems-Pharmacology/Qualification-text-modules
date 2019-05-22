@@ -1,25 +1,28 @@
-# OSPS Introduction
+# Open Systems Pharmacology Suite (OSPS) Introduction
 
-OSPS is a tool for PBPK modelling and simulation of drugs in laboratory animals and humans. PK-Sim and MoBi are part of the Open Systems Pharmacology Suite (OSPS) [[1](#reference)].  Simulations were carried out on a validated computerized system. PK-Sim® is based on a generic PBPK-model with 18 organs and tissues. Represented organs/tissues include arterial and venous blood, adipose tissue (separable adipose, excluding yellow marrow), brain, lung, bone (including yellow marrow), gonads, heart, kidneys, large intestine, liver, muscle, portal vein, pancreas, skin, small intestine, spleen and stomach, as shown in Figure 1.
+OSPS is a tool for PBPK modelling and simulation of drugs in laboratory animals and humans. PK-Sim and MoBi are part of the Open Systems Pharmacology Suite (OSPS) [[1](#reference)]. PK-Sim® is based on a generic PBPK-model with 18 organs and tissues. Represented organs/tissues include arterial and venous blood, adipose tissue (separable adipose, excluding yellow marrow), brain, lung, bone (including yellow marrow), gonads, heart, kidneys, large intestine, liver, muscle, portal vein, pancreas, skin, small intestine, spleen and stomach, as shown in Figure 1.
 
-Each organ consists of four sub-compartments namely the plasma, red blood cells (which together build  the vascular space), interstitial space, and cellular space. Distribution between the plasma and red blood cells as well as between the interstitial and cellular compartments can be permeability-limited. In the brain, the permeation barrier is located between the vascular and the interstitial space. PK-Sim® estimates model parameters (intestinal permeability [[2](#reference)], organ partition coefficients [[3,4](#reference)], and permeabilities) from physico-chemical properties of compounds (molecular weight, pKa, ace/base properties) and the composition of each tissue compartment (lipids, water and proteins). Partition coefficients can be calculated using a variety of methods available in PK-Sim®, for example the internal PK-Sim® method [[3,4](#reference)] or that of Rodgers and Rowland [[5-7](#reference)]. 
+Each organ consists of four sub-compartments namely the plasma, red blood cells (which together build the vascular space), interstitial space, and cellular space. Distribution between the plasma and red blood cells as well as between the interstitial and cellular compartments can be permeability-limited. In the brain, the permeation barrier is located between the vascular and the interstitial space. PK-Sim® estimates model parameters (intestinal permeability [[2](#reference)], organ partition coefficients [[3,4](#reference)], and permeabilities) from physico-chemical properties of compounds (molecular weight, pKa, ace/base properties) and the composition of each tissue compartment (lipids, water and proteins). Partition coefficients can be calculated using a variety of methods available in PK-Sim®, for example the internal PK-Sim® method [[3,4](#reference)] or that of Rodgers and Rowland [[5-7](#reference)]. 
 
-Physiological databases included in the software incorporate the dependencies of organ weights, organ blood flows and gastrointestinal parameters (gastrointestinal length, radius of each section, intestinal surface area [[2]) with the user-defined body weight and height of the individual [[8](#reference)]. Thereby, PK Sim® allows generating realistic virtual populations. For a detailed description of the PBPK model structure implemented in PK Sim®, see Willmann et al. [[2,4,8,9](#reference)] or the Open Systems Pharmacology (OSP) Suite homepage (<https://github.com/Open-Systems-Pharmacology>).
+Physiological databases included in the software incorporate the dependencies of organ weights, organ blood flows and gastrointestinal parameters (gastrointestinal length, radius of each section, intestinal surface area [[2]) with the user-defined body weight and height of the individual [[8](#reference)]. Thereby, PK Sim® allows generating realistic virtual populations. For a detailed description of the PBPK model structure implemented in PK Sim®, see Willmann et al. [[2,4,8,9](#reference)] or the Open Systems Pharmacology (OSP) Suite homepage (<http://www.open-systems-pharmacology.org/>).
 
  
 
 **Figure** **1: Structure of the Whole Body PBPK Model integrated in PK-Sim®**
 
 ![generic PBPK model](images/PK-Sim_PBPK_generic_model_scheme.png)
+<<<<<<< HEAD
+=======
 
+>>>>>>> 05cfadfc5a488d01679441db9ebc317c92d218fc
 
-## Reference
+## References
 
-[1] [https://github.com/Open-Systems-Pharmacology](https://github.com/Open-Systems-Pharmacology)
+[1] [www.open-systems-pharmacology.org](http://www.open-systems-pharmacology.org/)
 
 [2] [Willmann S, Schmitt W, Keldenich J, Lippert J, Dressman JB. A physiological model for the estimation of the fraction dose absorbed in humans.J Med Chem. 2004 Jul 29;47(16):4022-31.](https://www.ncbi.nlm.nih.gov/pubmed/15267240)
 
-[3] [Haerter MW, K.J., Schmitt W, *Estimation of physicochemical and ADME parameters.* , in *Handbook of Combinatorial Chemistry: Drugs, Catalysts, Materials*, H.W. Nicolaou KC HR, Editor. 2002, Wiley VCH Verlag GmbH: Weinheim, Germany. p. 743-60.](https://)
+[3] [Haerter MW, K.J., Schmitt W, *Estimation of physicochemical and ADME parameters.* , in *Handbook of Combinatorial Chemistry: Drugs, Catalysts, Materials*, H.W. Nicolaou KC HR, Editor. 2002, Wiley VCH Verlag GmbH: Weinheim, Germany. p. 743-60.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/3527603034.ch26)
 
 [4] [Willmann S, Lippert J, Schmitt W. From physicochemistry to absorption and distribution: predictive mechanistic modelling and computational tools. Expert Opin Drug Metab Toxicol. 2005 Jun;1(1):159-68.](https://www.ncbi.nlm.nih.gov/pubmed/16922658)
 
