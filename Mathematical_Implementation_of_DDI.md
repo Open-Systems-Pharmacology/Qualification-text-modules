@@ -4,19 +4,19 @@
 
 ### DDI modeling: Competitive inhibition 
 
-A detailed representation of the mathematical implementation of competitive enzyme inhibition  can be found in the OSP manual [[1](#reference)].
+A detailed representation of the mathematical implementation of competitive enzyme inhibition  can be found in the OSP manual [[1](#references)].
 
 
 
 ### DDI modeling: Mechanism-based inhibition 
 
-A detailed representation of the mathematical implementation of mechanism-based enzyme inhibition  can be found in the OSP manual [[2](#reference)].
+A detailed representation of the mathematical implementation of mechanism-based enzyme inhibition  can be found in the OSP manual [[2](#references)].
 
 
 
 ### DDI modeling: Induction 
 
-A detailed representation of the mathematical implementation of enzyme induction can be found in the OSP manual [[3](#reference)].
+A detailed representation of the mathematical implementation of enzyme induction can be found in the OSP manual [[3](#references)].
 
  
 
