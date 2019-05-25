@@ -40,6 +40,6 @@ For the Qualification of the distribution and GFR elimination of compounds, the 
 
 [3] [Amikacin-Model, Whole-body PBPK model of Amikacin. https://github.com/Open-Systems-Pharmacology/Amikacin-Model](https://github.com/Open-Systems-Pharmacology/Amikacin-Model)
 
-[4] [Vancomycin-Model, Whole-body PBPK model of Vancomycin. https://github.com/Open-Systems-Pharmacology/Amikacin-Model](https://github.com/Open-Systems-Pharmacology/Vancomycin-Model)
+[4] [Vancomycin-Model, Whole-body PBPK model of Vancomycin. https://github.com/Open-Systems-Pharmacology/Vancomycin-Model](https://github.com/Open-Systems-Pharmacology/Vancomycin-Model)
 
 [5] [Pregabalin-Model, Whole-body PBPK model of Pregabalin. https://github.com/Open-Systems-Pharmacology/Pregabalin-Model](https://github.com/Open-Systems-Pharmacology/Pregabalin-Model)
