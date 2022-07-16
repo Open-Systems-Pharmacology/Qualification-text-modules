@@ -12,9 +12,9 @@ For qualification purpose, during the translation of Adult PBPK to children the 
 
 ### Anthropometric and Physiological Information 
 
-Regarding the age-dependencies of the relevant anthropometric (height, weight) and physiological parameters (blood flows, organ volumes, binding protein concentrations, hematocrit, cardiac output) in children was gathered from the literature and has been previously published [[1](#references)]. The information was incorporated into PK-Sim® and was used as default values for the simulations in children.
+Regarding the age-dependencies of the relevant anthropometric (height, weight) and physiological parameters (blood flows, organ volumes, binding protein concentrations, hematocrit, cardiac output) in children was gathered from the literature and has been previously published [[1](#references-pediatric-introduction)]. The information was incorporated into PK-Sim® and was used as default values for the simulations in children.
 
-The  applied ontogeny and variability of active processes that are built-in into PK-Sim® for translation to children, are described in the publically available "**PK-Sim® Ontogeny Database Version 7.3**" [[2](#references)] or otherwise referenced for the specific process.
+The  applied ontogeny and variability of active processes that are built-in into PK-Sim® for translation to children, are described in the publically available "**PK-Sim® Ontogeny Database Version 7.3**" [[2](#references-pediatric-introduction)] or otherwise referenced for the specific process.
 
 ### Qualifications of Ontogenies
 
@@ -24,14 +24,14 @@ e.g.
 
 For the Qualification of the distribution and GFR elimination of compounds, the following probe substances were included:
 
-- Amikacin [[3](#references)]
+- Amikacin [[3](#references-pediatric-introduction)]
 
-- Vancomycin [[4](#references)]
+- Vancomycin [[4](#references-pediatric-introduction)]
 
-- Pregabalin [[5](#references)]
+- Pregabalin [[5](#references-pediatric-introduction)]
 
   
-
+<a id="references-pediatric-introduction"></a>
 ## References
 
 [1] [Edginton AN, Schmitt W, Willmann S. Development and evaluation of a generic physiologically based pharmacokinetic model for children. Clin Pharmacokinet. 2006;45(10):1013-34.](https://www.ncbi.nlm.nih.gov/pubmed/16984214)
