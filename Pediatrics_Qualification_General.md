@@ -8,7 +8,7 @@ For qualification purpose, during the translation of Adult PBPK to children the 
 
 - when scaling and adult model to children, it was assumed that the metabolism and excretion
   pathways are qualitatively the same in children as in adults.
-- For qualification purpose, no further changes to any other input parameters (eg, lipophilicity, intestinal permeability, solubility) were allowed during the simulations in children. 
+- For qualification purpose, no further changes to any other input parameters (e.g., lipophilicity, intestinal permeability, solubility) were allowed during the simulations in children. 
 
 ### Anthropometric and Physiological Information 
 
