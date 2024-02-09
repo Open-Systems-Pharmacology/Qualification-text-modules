@@ -10,7 +10,7 @@ For qualification purpose, during the translation of Adult PBPK to children the 
   pathways are qualitatively the same in children as in adults.
 - For qualification purpose, no further changes to any other input parameters (e.g., lipophilicity, intestinal permeability, solubility) were allowed during the simulations in children. 
 
-### Anthropometric and Physiological Information 
+### Anthropometric and Physiological Information
 
 Regarding the age-dependencies of the relevant anthropometric (height, weight) and physiological parameters (blood flows, organ volumes, binding protein concentrations, hematocrit, cardiac output) in children was gathered from the literature and has been previously published [[1](#references-pediatric-introduction)]. The information was incorporated into PK-Sim® and was used as default values for the simulations in children.
 
@@ -30,8 +30,8 @@ For the Qualification of the distribution and GFR elimination of compounds, the 
 
 - Pregabalin [[5](#references-pediatric-introduction)]
 
-  
 <a id="references-pediatric-introduction"></a>
+
 ## References
 
 [1] [Edginton AN, Schmitt W, Willmann S. Development and evaluation of a generic physiologically based pharmacokinetic model for children. Clin Pharmacokinet. 2006;45(10):1013-34.](https://www.ncbi.nlm.nih.gov/pubmed/16984214)
